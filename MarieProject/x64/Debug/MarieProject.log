@@ -1,0 +1,7 @@
+﻿  Car.cpp
+  Person.cpp
+C:\Users\Omer Shemer\source\repos\MarieProject\MarieProject\Person.cpp(68,33): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Omer Shemer\source\repos\MarieProject\MarieProject\Person.cpp(115,12): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Main.cpp
+  Generating Code...
+  MarieProject.vcxproj -> C:\Users\Omer Shemer\source\repos\MarieProject\x64\Debug\MarieProject.exe
